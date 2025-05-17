@@ -147,7 +147,7 @@ export default async function Video({ params }: PageProps) {
         {/* ... */}
         </section>
             <iframe
-                className="w-full h-[30vh] md:h-[55vh] lg:h-[70vh]"
+                className="w-full h-[90vh] md:h-[90vh] lg:h-[90vh]"
                 src={`https://doodstream.com/e/${file.filecode}`}
                 scrolling="no"
                 title={file.title}
@@ -160,8 +160,16 @@ export default async function Video({ params }: PageProps) {
                         {file.title}
                     </CardTitle>
                 </CardHeader>
-            <p>{file.title} di {SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma Viral Video Bokep Indo Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma Jepang Jav Barat Simontok hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja {SITENAME} wiki raja bokeptube full porno seponga simontok {file.title} playbokep indobokep xpanasonline indoh janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor {SITENAME} remaja yandex update perselingkuhan wiki raja full com porno indoh Hotbabes Big Tits Family Freeporn Ass Naked Celebs Nude Cam Hot Videos Fucking Free Porno Adult Movies Mom Freesex Nudelive Cams Women Stepmom Hotwife Bigtits Melons Tube Huge Tits Pornos Film x Titshits Pornofilme Nice Natural Fuq Girls Teen Sex Pornstars Tube Dick Jihad</p>
+<center><Script dangerouslySetInnerHTML={{__html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1078976})`,}}/>
+<Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/>
+<ins id="1078976" data-width="300" data-height="112"></ins></center>
+		<CardContent>
+       		     <p>Video {file.title} di {SITENAME} Video Bokep Indo Bocil Ngentot Jilbab Smp Mama Viral Sma Tante Live Paksa Bokep Abg Jepang Jav Barat Korea China Terbaru Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma hub sotwe olmek avtube pijat pure gudang pemerkosaan rumah tobrut inggris ngintip vcs binor yandex update remaja {SITENAME} wiki raja bokeptube full porno bokepmama simontok bokepind playbokep indobokep xpanasonline indoh janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh</p>
+		</CardContent>
             </Card>
+<center><Script dangerouslySetInnerHTML={{__html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1058210})`,}}/>
+<Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/>
+<ins id="1058210" data-width="300" data-height="262"></ins></center>
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video {file.title}
             </h2>
